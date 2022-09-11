@@ -10,6 +10,7 @@ The ZoomCare Candidate Code Challenges are intended to take around 2-3 hours to 
 
 This Candidate Code Challenge is geared specifically toward QA Engineers with end-to-end testing and programming experience. The challenge is split into two parts: the first is to devise a test plan for the prompt provided, while the second is to create a basic automation framework that executes some of the test cases written. Both parts are of equal importance, but you'll likely spend more time on Part 2 (automation).
 
+[//]: # ()
 Specifically:
 1. Create a fork of this repository into your personal GitHub space.
 2. Wipe the contents of this README file, and in its place, create two sections: Test Cases and Automation Instructions.
